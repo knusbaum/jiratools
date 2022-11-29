@@ -10,6 +10,8 @@ github.com/emersion/go-sasl v0.0.0-20200509203442-7bfe0ed36a21 h1:OJyUGMJTzHTd1X
 github.com/emersion/go-sasl v0.0.0-20200509203442-7bfe0ed36a21/go.mod h1:iL2twTeMvZnrg54ZoPDNfJaJaqy0xIQFuBdrLsmspwQ=
 github.com/fatih/structs v1.1.0 h1:Q7juDM0QtcnhCpeyLGQKyg4TOIghuNXrkL32pHAUMxo=
 github.com/fatih/structs v1.1.0/go.mod h1:9NiDSp5zOcgEDl+j00MP/WkGVPOlPRLejGD8Ga6PJ7M=
+github.com/fhs/mux9p v0.2.0 h1:R9FEaDEQjinXhAXU0D4O1DXMZM3z8rZzqhl5FnI+sxw=
+github.com/fhs/mux9p v0.2.0/go.mod h1:tjbHDrV79hmPQZ5kZ5Lu5ggNPNFe6MGAldApF+ynYy8=
 github.com/fhs/mux9p v0.3.1 h1:x1UswUWZoA9vrA02jfisndCq3xQm+wrQUxUt5N99E08=
 github.com/fhs/mux9p v0.3.1/go.mod h1:F4hwdenmit0WDoNVT2VMWlLJrBVCp/8UhzJa7scfjEQ=
 github.com/golang-jwt/jwt/v4 v4.3.0 h1:kHL1vqdqWNfATmA0FNMdmZNMyZI1U6O31X4rlIPoBog=
@@ -24,6 +26,10 @@ github.com/hanwen/go-fuse/v2 v2.0.3/go.mod h1:0EQM6aH2ctVpvZ6a+onrQ/vaykxh2GH7hy
 github.com/keybase/go-keychain v0.0.0-20201121013009-976c83ec27a6 h1:Mj0fhP9dzHKPijsmli/XbXMDKe1/KWy5xKci8e3nmBg=
 github.com/keybase/go-keychain v0.0.0-20201121013009-976c83ec27a6/go.mod h1:N83iQ9rnnzi2KZuTu+0xBcD1JNWn1jSN140ggAF7HeE=
 github.com/keybase/go.dbus v0.0.0-20200324223359-a94be52c0b03/go.mod h1:a8clEhrrGV/d76/f9r2I41BwANMihfZYV9C223vaxqE=
+github.com/knusbaum/go9p v1.12.0 h1:W5iu4Q9zCx+vU0A+Q9bUNoFCXAIlf93BEnjC1nk9V3Y=
+github.com/knusbaum/go9p v1.12.0/go.mod h1:2Zmddz/xhE4CFDcmV+DQIhTNAvNKUhIvj1SRaMm+P28=
+github.com/knusbaum/go9p v1.18.0 h1:/Y67RNvNKX1ZV1IOdnO1lIetiF0X+CumOyvEc0011GI=
+github.com/knusbaum/go9p v1.18.0/go.mod h1:HtMoJKqZUe1Oqag5uJqG5RKQ9gWPSP+wolsnLLv44r8=
 github.com/kylelemons/godebug v0.0.0-20170820004349-d65d576e9348/go.mod h1:B69LEHPfb2qLo0BaaOLcbitczOKLWTsrBG9LczfCD4k=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
